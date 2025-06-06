@@ -1,5 +1,5 @@
 body {
-background-color: beige;
+background-color: #e9d8a6;
 font-family: 'Monaco' , monospace;
 text-align: center;
 
@@ -11,7 +11,7 @@ padding-top: 200px;
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: beige;
+  background-color: #94d2bd;
   overflow: hidden;
 }
 
@@ -27,12 +27,12 @@ padding-top: 200px;
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: beige;
+  background-color: #ee9b00;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: tan;
-  color: white;
+  background-color: #0a9396;
+  color: black;
 }
