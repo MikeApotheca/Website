@@ -10,6 +10,15 @@ h1 {
 padding-top: 200px;
 }
 
+p {
+
+margin:0 auto; 
+max-width: 800px; 
+
+}
+
+
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #f2f8fa;
