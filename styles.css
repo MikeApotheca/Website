@@ -1,7 +1,8 @@
 body {
-background-color: #e9d8a6;
+background-color: #fdffff;
 font-family: 'Monaco' , monospace;
 text-align: center;
+color: #0d2f56;
 
 }
 
@@ -11,7 +12,7 @@ padding-top: 200px;
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #94d2bd;
+  background-color: #f2f8fa;
   overflow: hidden;
 }
 
@@ -27,12 +28,12 @@ padding-top: 200px;
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #ee9b00;
+  background-color: #f2f8fa;
   color: black;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #0a9396;
+  background-color: #f2f8fa;
   color: black;
 }
